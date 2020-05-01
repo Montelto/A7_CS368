@@ -1,5 +1,9 @@
 //
-// Created by Joseph McFarland on 25-Apr-20.
+// Joseph McFarland
+// 9072511679
+// mcfarland3@wis.edu
+// https://canvas.wisc.edu/courses/188843/files for slides
+// Made in CLion with commits to GitHub
 //
 
 #ifndef A7_CS368_SHIP_H
